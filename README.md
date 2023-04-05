@@ -154,9 +154,13 @@ int main() {
 Bubble sort:
 
 ![img](https://user-images.githubusercontent.com/118707363/230113149-b7c5af13-ffbd-4f38-bae8-09b1133b4059.png)
+
+
 Insertion sort:
 
 ![img](https://user-images.githubusercontent.com/118707363/230113178-b918204d-f012-423d-86e9-442eae8fd068.png)
+
+
 Selection sort:
 
 ![select](https://user-images.githubusercontent.com/118707363/230112585-27c98338-6a8f-47e2-b8f4-f366b0d9b7db.png)
