@@ -1,13 +1,13 @@
-##C-Programming-Sort-Assignment
+# C-Programming-Sort-Assignment
 
-##AIM:
+## AIM:
 
 To sort the elements by using the method of bubble sort ,insertion sort ,selection sort in C program.
 Materials Required:
 
 Hardware: pc with 'c' compiler
-##Algorithm:
-##Bubble sort:
+## Algorithm:
+## Bubble sort:
 
 Bubble sort is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 Steps for Bubble Sort:
@@ -18,7 +18,7 @@ Steps for Bubble Sort:
    4. Now, the largest element in the array is at the last position.
    5. Repeat the above steps again for the remaining elements of the array, for (n-1) elements.
 
-##Insertion sort:
+## Insertion sort:
 
 Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
 Steps for Insertion Sort:
@@ -29,16 +29,16 @@ Steps for Insertion Sort:
    4. Now, the first two elements of the array are sorted.
    5. Repeat the above steps for the remaining elements of the array, i.e., for (n-1) elements.
 
-##Selection Sort:
+## Selection Sort:
 
 Selection Sort works by finding the minimum element from the unsorted part of the array and putting it at the beginning.
 Steps for the Selection Sort:
 
-    1.Find the minimum element in the unsorted part of the array.
-    2.Swap the minimum element with the first element of the unsorted part of the array.
-   3. Repeat step 1 and 2 for the remaining unsorted part of the array.
+    1. Find the minimum element in the unsorted part of the array.
+    2. Swap the minimum element with the first element of the unsorted part of the array.
+    3.Repeat step 1 and 2 for the remaining unsorted part of the array.
 
-##Code:
+## Code:
 Bubble sort:
 ```
 # Code developed : praveen s
